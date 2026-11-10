@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070A13,45:102A43,100:2563EB&height=220&section=header&text=LOGANATHAN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20Building%20Ideas%20Into%20Intelligent%20Solutions&descSize=14&descAlignY=59&animation=fadeIn" width="100%" alt="Animated profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070A13,45:102A43,100:2563EB&amp;height=220&amp;section=header&amp;text=LOGANATHAN&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20Building%20Ideas%20Into%20Intelligent%20Solutions&amp;descSize=14&amp;descAlignY=59&amp;animation=fadeIn" width="100%" alt="Animated profile header" />
 
   <a href="https://github.com/sloganathan288-dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+Web+Development;Machine+Learning+%26+Computer+Vision;Building+useful+things+with+code" alt="Typing introduction" />
@@ -13,7 +13,6 @@
 
   <p>
     <a href="https://github.com/sloganathan288-dev"><img src="https://img.shields.io/badge/GitHub-sloganathan288--dev-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
     <a href="mailto:sloganathan288@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
@@ -43,24 +42,25 @@ I enjoy turning ideas into practical software — from AI-powered applications a
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,dart" alt="Python, Java, JavaScript, TypeScript, HTML, CSS and Dart" />
+### Programming & Web Languages
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript" alt="Java, Python, HTML, CSS and JavaScript" />
 
-### Frontend & App Development
-<img src="https://skillicons.dev/icons?i=react,vite,flutter" alt="React, Vite and Flutter" />
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react" alt="React" />
 
-### Backend, Database & Cloud
-<img src="https://skillicons.dev/icons?i=nodejs,flask,firebase,postgres,supabase" alt="Node.js, Flask, Firebase, PostgreSQL and Supabase" />
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
 
-### AI, ML & Computer Vision
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="TensorFlow, PyTorch and OpenCV" />
+### Developer Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Git, GitHub, VS Code and Eclipse" />
 
-### Developer Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git, GitHub, VS Code and Vercel" />
+### Development Practices
+- SQL and database queries
+- REST API usage and integration
+- Website and web application development
+- AI tools for development, research and productivity
 
 </div>
-
-**Also explored:** MediaPipe Hands, HTML Canvas, LSTM-based sequence modelling, REST APIs, PostgreSQL integrations and payment workflows.
 
 ---
 
@@ -134,7 +134,7 @@ I'm always interested in learning, collaborating and building useful technology.
 <a href="mailto:sloganathan288@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Loganathan" /></a>
 <a href="https://github.com/sloganathan288-dev?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,55:102A43,100:070A13&height=110&section=footer" width="100%" alt="Decorative footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,55:102A43,100:070A13&amp;height=110&amp;section=footer" width="100%" alt="Decorative footer" />
 
 **“Build with curiosity. Improve with consistency. Create with purpose.”**
 
