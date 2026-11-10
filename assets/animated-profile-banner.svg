@@ -24,7 +24,7 @@
 </g>
 <circle cx="600" cy="178" r="91" fill="none" stroke="#e0f2fe" stroke-opacity=".8" stroke-width="1.5"/>
 <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
- <text x="600" y=" forty" fill="#7dd3fc" font-size="15" letter-spacing="6">AI  •  AUTOMATION  •  FULL STACK</text>
+ <text x="600" y="40" fill="#7dd3fc" font-size="15" letter-spacing="6">AI  •  AUTOMATION  •  FULL STACK</text>
  <text x="600" y="320" fill="#f8fafc" font-size="55" font-weight="800" letter-spacing="2">LOGANATHAN</text>
  <text x="600" y="355" fill="#cbd5e1" font-size="20">Building useful solutions with code, AI &amp; automation</text>
  <text x="600" y="395" fill="#67e8f9" font-size="15" letter-spacing="3">JAVA  /  PYTHON  /  REACT  /  SQL  /  n8n  /  SUPABASE</text>
