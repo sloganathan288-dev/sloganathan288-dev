@@ -48,15 +48,20 @@ I enjoy turning ideas into practical software — from AI-powered applications a
 ### Frontend Development
 <img src="https://skillicons.dev/icons?i=react" alt="React" />
 
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
+### Databases & Backend Services
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" alt="MySQL, MongoDB and Supabase" />
+
+### Automation & Integrations
+<img src="https://skillicons.dev/icons?i=n8n" alt="n8n workflow automation" />
+
+- AI-powered workflow automation with n8n
+- WhatsApp integration using messaging APIs
+- Supabase and SQL database workflows
+- REST API usage and integration
 
 ### Developer Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Git, GitHub, VS Code and Eclipse" />
 
-### Development Practices
-- SQL and database queries
-- REST API usage and integration
 - Website and web application development
 - AI tools for development, research and productivity
 
@@ -89,16 +94,41 @@ I enjoy turning ideas into practical software — from AI-powered applications a
 
 </div>
 
-### More things I've built
+## 🗂️ Project Portfolio
 
-| Project | What it explores |
+### 🎓 Academic Projects
+
+| Project | Description & technologies |
 |---|---|
-| [LOGAN IT Solutions](https://github.com/sloganathan288-dev/logan-it-solutions) | Business website, PostgreSQL, payment and admin workflows |
-| [Smart Traffic Management](https://github.com/sloganathan288-dev/smart_traffic_system-management) | AI-based vehicle-density monitoring and traffic automation |
-| [Loganathan V2](https://github.com/sloganathan288-dev/loganathan-v2) | AI chat workspace with Firebase authentication, storage and memory |
-| [Mindfull AI](https://github.com/sloganathan288-dev/mindfull-ai) | AI application project |
-| [Academic Performance Analysis](https://github.com/sloganathan288-dev/academic-performance-analysis-system) | Academic data analysis project |
-| [Durga Jothidham](https://github.com/sloganathan288-dev/durga-jothidham) | Appointment-booking automation project |
+| **AI-Powered Disaster Monitoring** | Final-year project concept using satellite and drone imagery for disaster monitoring and analysis |
+| [Smart Traffic Management](https://github.com/sloganathan288-dev/smart_traffic_system-management) | AI-based vehicle-density monitoring and traffic signal automation using Python, computer vision and IoT concepts |
+| [Academic Performance Analysis](https://github.com/sloganathan288-dev/academic-performance-analysis-system) | Data analysis project focused on academic performance |
+| [RNN Voice & Next-Word Prediction](https://github.com/sloganathan288-dev/RNN-voice-and-next-word-prediction) | Speech-to-text and next-word prediction using Flask and LSTM-based deep learning |
+
+### 💡 Personal & Learning Projects
+
+| Project | Description & technologies |
+|---|---|
+| [LOGU GAMES](https://github.com/sloganathan288-dev/LOGU-GAMES) | Collection of browser games built with React, TypeScript and Vite |
+| [Hand Pen](https://github.com/sloganathan288-dev/hand-detection-write) | Webcam hand-detection drawing using JavaScript, MediaPipe Hands and HTML Canvas |
+| [Doodle Alive](https://github.com/sloganathan288-dev/doodle-alive) | Browser-based drawing and animation using HTML, CSS, JavaScript and Canvas |
+| [Loganathan V2](https://github.com/sloganathan288-dev/loganathan-v2) | AI chat workspace concept with Firebase authentication, Firestore, Storage and a cloud function |
+| [Mindfull AI](https://github.com/sloganathan288-dev/mindfull-ai) | AI application exploration |
+| **BrainZone IQ Chatbot** | AI chatbot project |
+| **Virtual Try-On** | AI-powered virtual try-on project |
+| **AI Medicine Reminder** | Flutter and IoT-based medicine reminder application |
+
+### 🏢 Company, Internship & Business Projects
+
+| Project | Description & technologies |
+|---|---|
+| **Ethiroli – Employee & Company Platform** | Contributed to a multi-role company platform, working on assigned modules, bug fixes and feature improvements. React frontend and backend API integration; work shared through GitHub pull requests. This project is not yet published in my GitHub repositories. |
+| **Durga Jothidham – Appointment Assistant** | Astrology appointment chatbot workflow using n8n Cloud, WhatsApp Cloud API (planned production channel), Gemini and Supabase/PostgreSQL. A Telegram demo was also developed to test Tamil booking conversations, service menus and appointment flow. |
+| [VETRI KALAM Sports & Events](https://github.com/sloganathan288-dev/vetri-kalam-sports-events) | Sports event website and registration platform with React, PostgreSQL, serverless APIs and organiser tools |
+| [LOGAN IT Solutions](https://github.com/sloganathan288-dev/logan-it-solutions) | Business website and platform with PostgreSQL, payment workflows, APIs and admin features |
+| [Personal Portfolio](https://github.com/sloganathan288-dev/loganathan-portfolio) | React, Vite and TypeScript developer portfolio |
+
+*Some academic and personal projects above are documented from my project work but are not yet published as separate GitHub repositories. Project status and implementation details may evolve as development continues.*
 
 ---
 
@@ -117,7 +147,8 @@ I enjoy turning ideas into practical software — from AI-powered applications a
 
 ## 🎯 Currently Focused On
 
-- Building practical AI-powered applications
+- Building practical AI-powered applications and automation workflows
+- Exploring n8n, WhatsApp API integrations and Supabase
 - Improving full-stack development and software architecture
 - Exploring machine learning and computer vision
 - Writing cleaner, more maintainable code
