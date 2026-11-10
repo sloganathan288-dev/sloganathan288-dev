@@ -13,6 +13,7 @@
 
   <p>
     <a href="https://github.com/sloganathan288-dev"><img src="https://img.shields.io/badge/GitHub-sloganathan288--dev-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+    <a href="https://loganathan-portfolio-ruby.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal portfolio website" /></a>
     <a href="mailto:sloganathan288@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
@@ -191,6 +192,8 @@ Technology keeps changing, and so do I. I actively explore new AI tools, develop
 <div align="center">
 
 I'm always interested in learning, collaborating and building useful technology.
+
+<a href="https://loganathan-portfolio-ruby.vercel.app/"><img src="https://img.shields.io/badge/Visit_My_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" /></a>
 
 <a href="mailto:sloganathan288@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Loganathan" /></a>
 <a href="https://github.com/sloganathan288-dev?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
