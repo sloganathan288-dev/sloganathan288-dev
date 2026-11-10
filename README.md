@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="assets/animated-profile-banner.svg" width="100%" alt="Animated LOGANATHAN developer banner featuring professional portrait" />
+  <img src="assets/animated-profile-banner.svg" width="100%" alt="Animated LOGANATHAN profile banner with portrait" />
 
   <a href="https://github.com/sloganathan288-dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+Web+Development;Machine+Learning+%26+Computer+Vision;Building+useful+things+with+code" alt="Typing introduction" />
