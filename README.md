@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="assets/animated-profile-banner.svg" width="100%" alt="Animated LOGANATHAN developer banner with profile avatar and technology stack" />
+  <img src="assets/animated-profile-banner.svg" width="100%" alt="Animated LOGANATHAN developer banner featuring professional portrait" />
 
   <a href="https://github.com/sloganathan288-dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+Web+Development;Machine+Learning+%26+Computer+Vision;Building+useful+things+with+code" alt="Typing introduction" />
@@ -79,29 +79,19 @@ I enjoy turning ideas into practical software — from AI-powered applications a
 
 <div align="center">
 
-| Company | Role | Work Mode | Period |
-|---|---|---|---|
-| **Ethiroli Private Limited** | Web Developer & Full-Stack Developer | 🏢 On-site · Salem | **24 September 2026 – 24 November 2026** |
-| **Shank's Code Edutech** | Full-Stack Developer | 🏠 Remote · Work from Home | **20 September 2026 – November 2026** |
+<img src="assets/animated-internship-timeline.svg" width="100%" alt="Animated timeline of on-site Ethiroli and remote Shank's Code internships" />
 
 </div>
 
-### Ethiroli Private Limited — Web Developer & Full-Stack Developer
-- **Work mode:** On-site at the company
-- **Period:** 24 September 2026 – 24 November 2026
-- Worked in web development and full-stack development roles.
-- Worked on **AI automation and integrations**, alongside web application development.
-- Contributed to frontend, backend and API integration tasks.
+### Ethiroli Private Limited — On-site
+**Web Developer & Full-Stack Developer** · 24 September 2026 – 24 November 2026
 
-### Shank's Code Edutech — Full-Stack Developer
-- **Work mode:** Remote · Work from Home
-- **Period:** 20 September 2026 – November 2026
-- Worked as a **Full-Stack Developer**.
-- Used **React.js and JavaScript** for web application development.
+Worked on web development and full-stack tasks, including AI automation workflows and integrations, frontend, backend and API integration.
 
-*Experience details reflect the roles, work modes, dates and technologies specified by me.*
+### Shank's Code Edutech — Remote
+**Full-Stack Developer** · 20 September 2026 – November 2026
 
----
+Worked remotely on full-stack web development using **React.js and JavaScript**.
 
 ## 🔄 What I Do
 
