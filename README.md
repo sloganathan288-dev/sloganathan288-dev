@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070A13,45:102A43,100:2563EB&amp;height=220&amp;section=header&amp;text=LOGANATHAN&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20Building%20Ideas%20Into%20Intelligent%20Solutions&amp;descSize=14&amp;descAlignY=59&amp;animation=fadeIn" width="100%" alt="Animated profile header" />
+  <img src="assets/animated-profile-banner.svg" width="100%" alt="Animated LOGANATHAN developer banner with profile avatar and technology stack" />
 
   <a href="https://github.com/sloganathan288-dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+Web+Development;Machine+Learning+%26+Computer+Vision;Building+useful+things+with+code" alt="Typing introduction" />
@@ -26,13 +26,13 @@
 
 Hi! I'm **Loganathan**, a final-year **B.Tech Artificial Intelligence & Data Science** student at Mahendra Engineering College, Tamil Nadu, India.
 
-I enjoy turning ideas into practical software — from AI-powered applications and computer-vision experiments to interactive web experiences and full-stack platforms.
+I enjoy turning ideas into practical software — from AI-powered applications and computer-vision experiments to interactive web experiences, full-stack platforms and workflow automation.
 
 - 🎓 Studying Artificial Intelligence & Data Science
 - 🤖 Interested in AI, machine learning, deep learning and computer vision
 - 🌐 Building web applications and full-stack solutions
 - 🧩 Learning by creating, experimenting and improving real projects
-- 🛠️ Daily tools: VS Code, Git and GitHub
+- ⚙️ Building automations and integrations with n8n, Supabase, SQL and APIs\n- 🛠️ Tools I use: VS Code, Eclipse, Git and GitHub\n- 🌱 I continuously explore and learn new tools, technologies and workflows as projects require.
 
 ---
 
@@ -49,13 +49,16 @@ I enjoy turning ideas into practical software — from AI-powered applications a
 <img src="https://skillicons.dev/icons?i=react" alt="React" />
 
 ### Databases & Backend Services
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" alt="MySQL, MongoDB and Supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
+<br/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 
 ### Automation & Integrations
-<img src="https://skillicons.dev/icons?i=n8n" alt="n8n workflow automation" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n workflow automation" />
+<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API" />
 
 - AI-powered workflow automation with n8n
-- WhatsApp integration using messaging APIs
+- WhatsApp messaging integration and chatbot workflows
 - Supabase and SQL database workflows
 - REST API usage and integration
 
@@ -66,6 +69,32 @@ I enjoy turning ideas into practical software — from AI-powered applications a
 - AI tools for development, research and productivity
 
 </div>
+
+---
+
+---
+
+## 🔄 What I Do
+
+<div align="center">
+
+| Process | What I work on |
+|---|---|
+| 💡 Understand | Break a real-world requirement into clear features |
+| 🧭 Plan | Map user journeys, data flow and automation steps |
+| 🧑‍💻 Develop | Build web interfaces and application features |
+| 🔌 Integrate | Connect REST APIs, databases and external services |
+| 🤖 Automate | Create n8n workflows and chatbot integrations |
+| 🧪 Test & Improve | Debug, refine and improve the solution |
+| 🚀 Maintain | Update projects and learn better ways to build |
+
+</div>
+
+## 🌱 Always Learning & Adapting
+
+Technology keeps changing, and so do I. I actively explore new AI tools, developer platforms, automation services and frameworks, then learn and apply the ones that fit the problem I'm solving.
+
+**My mindset:** Learn continuously · Experiment responsibly · Build practically · Improve consistently.
 
 ---
 
@@ -149,6 +178,7 @@ I enjoy turning ideas into practical software — from AI-powered applications a
 
 - Building practical AI-powered applications and automation workflows
 - Exploring n8n, WhatsApp API integrations and Supabase
+- Continuously learning and adapting to useful new developer tools and technologies
 - Improving full-stack development and software architecture
 - Exploring machine learning and computer vision
 - Writing cleaner, more maintainable code
