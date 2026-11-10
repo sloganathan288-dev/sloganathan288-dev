@@ -79,25 +79,27 @@ I enjoy turning ideas into practical software — from AI-powered applications a
 
 <div align="center">
 
-| Company | Work Mode | Period | Focus |
+| Company | Role | Work Mode | Period |
 |---|---|---|---|
-| **Ethiroli Private Limited** | 🏢 On-site · Salem | **24 September 2026 – 24 November 2026** | UI/UX & Full-Stack Web Development |
-| **Shank's Code Edutech** | 🏠 Remote · Work from Home | **20 September 2026 – November 2026** | Website development and web project work |
+| **Ethiroli Private Limited** | Web Developer & Full-Stack Developer | 🏢 On-site · Salem | **24 September 2026 – 24 November 2026** |
+| **Shank's Code Edutech** | Full-Stack Developer | 🏠 Remote · Work from Home | **20 September 2026 – November 2026** |
 
 </div>
 
-### Ethiroli Private Limited — On-site Internship
-- Joined on **24 September 2026** and worked on-site at the company through **24 November 2026**.
-- Internship focus: **UI/UX and Full-Stack Web Development**.
-- Exposure to frontend development, React.js, backend development and API integration through company project work.
+### Ethiroli Private Limited — Web Developer & Full-Stack Developer
+- **Work mode:** On-site at the company
+- **Period:** 24 September 2026 – 24 November 2026
+- Worked in web development and full-stack development roles.
+- Worked on **AI automation and integrations**, alongside web application development.
+- Contributed to frontend, backend and API integration tasks.
 
-### Shank's Code Edutech — Remote Internship
-- Joined on **20 September 2026**; remote work from home through **November 2026**.
-- Worked on website and client/server application-related tasks.
-- Project website technologies included **React, TypeScript, Vite and Tailwind CSS**.
-- The organisation's work includes technical training, internships, applied R&D and workshops.
+### Shank's Code Edutech — Full-Stack Developer
+- **Work mode:** Remote · Work from Home
+- **Period:** 20 September 2026 – November 2026
+- Worked as a **Full-Stack Developer**.
+- Used **React.js and JavaScript** for web application development.
 
-*Internship dates and work modes are based on my experience. Project technologies describe the relevant project stack, not a claim that I independently used every tool in every task.*
+*Experience details reflect the roles, work modes, dates and technologies specified by me.*
 
 ---
 
