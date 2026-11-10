@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="assets/animated-profile-banner.svg" width="100%" alt="Animated LOGANATHAN profile banner with portrait" />
+  <img src="assets/animated-profile-banner.svg" width="100%" alt="Animated sci-fi energy reactor banner" />
 
   <a href="https://github.com/sloganathan288-dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+Web+Development;Machine+Learning+%26+Computer+Vision;Building+useful+things+with+code" alt="Typing introduction" />
@@ -25,6 +25,10 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
+</div>
+
 Hi! I'm **Loganathan**, a final-year **B.Tech Artificial Intelligence & Data Science** student at Mahendra Engineering College, Tamil Nadu, India.
 
 I enjoy turning ideas into practical software — from AI-powered applications and computer-vision experiments to interactive web experiences, full-stack platforms and workflow automation.
@@ -38,6 +42,10 @@ I enjoy turning ideas into practical software — from AI-powered applications a
 ---
 
 ## 🧰 Tech Stack & Tools
+
+<div align="center">
+<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
+</div>
 
 *Technologies represented in my project repositories and documented project work.*
 
@@ -78,6 +86,10 @@ I enjoy turning ideas into practical software — from AI-powered applications a
 ## 💼 Internship Experience
 
 <div align="center">
+<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
+</div>
+
+<div align="center">
 
 <img src="assets/animated-internship-timeline.svg" width="100%" alt="Animated timeline of on-site Ethiroli and remote Shank's Code internships" />
 
@@ -96,6 +108,10 @@ Worked remotely on full-stack web development using **React.js and JavaScript**.
 ## 🔄 What I Do
 
 <div align="center">
+<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
+</div>
+
+<div align="center">
 
 | Process | What I work on |
 |---|---|
@@ -111,6 +127,10 @@ Worked remotely on full-stack web development using **React.js and JavaScript**.
 
 ## 🌱 Always Learning & Adapting
 
+<div align="center">
+<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
+</div>
+
 Technology keeps changing, and so do I. I actively explore new AI tools, developer platforms, automation services and frameworks, then learn and apply the ones that fit the problem I'm solving.
 
 **My mindset:** Learn continuously · Experiment responsibly · Build practically · Improve consistently.
@@ -118,6 +138,10 @@ Technology keeps changing, and so do I. I actively explore new AI tools, develop
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
+</div>
 
 <div align="center">
 
@@ -143,6 +167,10 @@ Technology keeps changing, and so do I. I actively explore new AI tools, develop
 </div>
 
 ## 🗂️ Project Portfolio
+
+<div align="center">
+<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
+</div>
 
 ### 🎓 Academic Projects
 
@@ -183,6 +211,10 @@ Technology keeps changing, and so do I. I actively explore new AI tools, develop
 ## 📊 GitHub Analytics
 
 <div align="center">
+<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
+</div>
+
+<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sloganathan288-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloganathan288-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
   <br/>
@@ -195,6 +227,10 @@ Technology keeps changing, and so do I. I actively explore new AI tools, develop
 
 ## 🎯 Currently Focused On
 
+<div align="center">
+<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
+</div>
+
 - Building practical AI-powered applications and automation workflows
 - Exploring n8n, WhatsApp API integrations and Supabase
 - Continuously learning and adapting to useful new developer tools and technologies
@@ -206,6 +242,10 @@ Technology keeps changing, and so do I. I actively explore new AI tools, develop
 ---
 
 ## 🤝 Let's Connect
+
+<div align="center">
+<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
+</div>
 
 <div align="center">
 
