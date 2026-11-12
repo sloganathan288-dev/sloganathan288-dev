@@ -63,24 +63,32 @@ I enjoy turning ideas into practical software — from AI-powered applications a
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 
 ### Automation & Integrations
-<img align="right" width="180" src="assets/falling-energy-art.svg" alt="Animated falling geometric energy stream" />
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n workflow automation" />
-<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API" />
 
 <p align="center">
-AI-powered workflow automation with n8n<br/>
-WhatsApp messaging integration and chatbot workflows<br/>
-Supabase and SQL database workflows<br/>
-REST API usage and integration
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n workflow automation" />
+  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API" />
+</p>
+
+<p align="center">
+  AI-powered workflow automation with n8n<br/>
+  WhatsApp messaging integration and chatbot workflows<br/>
+  Supabase and SQL database workflows<br/>
+  REST API usage and integration
+</p>
+
+<p align="center">
+  <img src="assets/falling-energy-art.svg" width="150" alt="Animated falling geometric energy stream" />
 </p>
 
 ### Developer Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Git, GitHub, VS Code and Eclipse" />
 
 <p align="center">
-Website and web application development<br/>
-AI tools for development, research and productivity
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Git, GitHub, VS Code and Eclipse" />
+</p>
+
+<p align="center">
+  Website and web application development<br/>
+  AI tools for development, research and productivity
 </p>
 
 
