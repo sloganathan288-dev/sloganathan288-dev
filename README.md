@@ -49,49 +49,56 @@ I enjoy turning ideas into practical software — from AI-powered applications a
 
 *Technologies represented in my project repositories and documented project work.*
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="72%" align="center" valign="middle">
 
 ### Programming & Web Languages
+
 <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript" alt="Java, Python, HTML, CSS and JavaScript" />
 
 ### Frontend Development
+
 <img src="https://skillicons.dev/icons?i=react" alt="React" />
 
 ### Databases & Backend Services
+
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
-<br/>
+
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 
 ### Automation & Integrations
 
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n workflow automation" />
-  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API" />
-</p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n workflow automation" />
+<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API" />
 
 <p align="center">
-  AI-powered workflow automation with n8n<br/>
-  WhatsApp messaging integration and chatbot workflows<br/>
-  Supabase and SQL database workflows<br/>
-  REST API usage and integration
-</p>
-
-<p align="center">
-  <img src="assets/falling-energy-art.svg" width="150" alt="Animated falling geometric energy stream" />
+AI-powered workflow automation with n8n<br/>
+WhatsApp messaging integration and chatbot workflows<br/>
+Supabase and SQL database workflows<br/>
+REST API usage and integration
 </p>
 
 ### Developer Tools & Platforms
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Git, GitHub, VS Code and Eclipse" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Git, GitHub, VS Code and Eclipse" />
 
 <p align="center">
-  Website and web application development<br/>
-  AI tools for development, research and productivity
+Website and web application development<br/>
+AI tools for development, research and productivity
 </p>
 
+</td>
+<td width="28%" align="right" valign="middle">
 
+<img src="assets/falling-energy-art.svg" width="210" alt="Animated falling geometric energy stream" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
 </div>
 
 ---
