@@ -25,6 +25,8 @@
 
 ## 👨‍💻 About Me
 
+<p align="left"><img src="assets/neural-network-pulse.svg" width="100%" alt="Animated AI neural network in red blue and cyan"/></p>
+
 <div align="center">
 <img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider"/>
 <h3>Curious Builder · AI &amp; Data Science · Full Stack</h3>
@@ -33,11 +35,13 @@
 <p>🎓 Artificial Intelligence &amp; Data Science<br/>🤖 AI, machine learning, deep learning and computer vision<br/>🌐 Web applications and full-stack solutions<br/>🧩 Learning by creating, experimenting and improving real projects<br/>⚙️ n8n, Supabase, SQL, APIs and workflow automation<br/>🛠️ VS Code, Eclipse, Git and GitHub<br/>🌱 Continuously exploring useful tools and technologies</p>
 </div>
 
-<p align="right"><img src="assets/curious-owl.svg" width="210" alt="Animated curious owl mascot"/></p>
+<p align="right"><img src="assets/ai-brain-pulse.svg" width="210" alt="Animated AI neural brain and learning network"/></p>
 
 ---
 
 ## 🧰 Tech Stack & Tools
+
+<p align="right"><img src="assets/code-rain.svg" width="88%" alt="Animated programming code streams"/></p>
 
 <div align="center">
 <img src="assets/energy-divider.svg" width="100%" alt="Animated multicolor energy divider"/>
@@ -64,13 +68,15 @@
 <p>Website and web application development<br/>AI tools for development, research and productivity</p>
 </div>
 
-<p align="left"><img src="assets/idea-bee.svg" width="190" alt="Animated bee moving along a workflow trail"/></p>
+<p align="left"><img src="assets/neural-network-pulse.svg" width="190" alt="Animated neural network with pulsing connections"/></p>
 
 ---
 
 ## 💼 Internship Experience
 
-<p align="right"><img src="assets/running-rabbit.svg" width="250" alt="Animated red rabbit running along a path"/></p>
+<p align="left"><img src="assets/data-wave.svg" width="100%" alt="Animated data wave showing a moving career path"/></p>
+
+<p align="right"><img src="assets/rocket-trajectory.svg" width="250" alt="Animated rocket following a red and blue trajectory"/></p>
 
 <div align="center">
 <img src="assets/career-timeline-motion.svg" width="100%" alt="Animated career timeline"/>
@@ -87,7 +93,9 @@
 
 ## 🔄 What I Do
 
-<p align="right"><img src="assets/idea-bee.svg" width="220" alt="Animated bee representing connected workflows"/></p>
+<p align="right"><img src="assets/neural-network-pulse.svg" width="95%" alt="Animated neural connections representing problem solving"/></p>
+
+<p align="right"><img src="assets/neural-network-pulse.svg" width="220" alt="Animated data processing network"/></p>
 
 <div align="center">
 <h3>From an idea to a working solution</h3>
@@ -104,7 +112,9 @@
 
 ## 🌱 Always Learning & Adapting
 
-<p align="left"><img src="assets/curious-owl.svg" width="205" alt="Animated owl mascot representing curiosity and learning"/></p>
+<p align="left"><img src="assets/ai-brain-pulse.svg" width="82%" alt="Animated AI brain with pulsing neural connections"/></p>
+
+<p align="left"><img src="assets/ai-brain-pulse.svg" width="205" alt="Animated AI neural brain pulse"/></p>
 
 <div align="center">
 <h3>Learn continuously. Experiment responsibly. Build practically.</h3>
@@ -116,7 +126,9 @@
 
 ## 🚀 Featured Projects
 
-<p align="right"><img src="assets/flowing-fox.svg" width="230" alt="Animated fox exploring a flowing path"/></p>
+<p align="left"><img src="assets/code-rain.svg" width="100%" alt="Animated code rain for featured projects"/></p>
+
+<p align="right"><img src="assets/code-rain.svg" width="230" alt="Animated code symbols and digital data rain"/></p>
 
 <div align="center">
 <a href="https://github.com/sloganathan288-dev/LOGU-GAMES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sloganathan288-dev&repo=LOGU-GAMES&theme=tokyonight&hide_border=true" alt="LOGU GAMES repository card"/></a>
@@ -131,6 +143,8 @@
 
 ## 🗂️ Project Portfolio
 
+<p align="right"><img src="assets/orbiting-satellite.svg" width="90%" alt="Animated satellite orbit and data transmission"/></p>
+
 <div align="center">
 <img src="assets/energy-divider.svg" width="100%" alt="Animated energy divider"/>
 <h3>🎓 Academic Projects</h3>
@@ -140,7 +154,7 @@
 <p><a href="https://github.com/sloganathan288-dev/RNN-voice-and-next-word-prediction">RNN Voice &amp; Next-Word Prediction</a><br/>Speech-to-text and next-word prediction using Flask and LSTM-based deep learning.</p>
 </div>
 
-<p align="right"><img src="assets/flowing-fox.svg" width="210" alt="Animated fox exploring project ideas"/></p>
+<p align="right"><img src="assets/code-rain.svg" width="210" alt="Animated code streams and project data"/></p>
 
 <div align="center">
 <h3>💡 Personal &amp; Learning Projects</h3>
@@ -166,7 +180,9 @@
 
 ## 🎯 Currently Focused On
 
-<p align="right"><img src="assets/future-hummingbird.svg" width="245" alt="Animated hummingbird flying toward the future"/></p>
+<p align="left"><img src="assets/rocket-trajectory.svg" width="100%" alt="Animated rocket trajectory representing future goals"/></p>
+
+<p align="right"><img src="assets/orbiting-satellite.svg" width="245" alt="Animated satellite orbiting a digital planet"/></p>
 
 <div align="center">
 <h3>Building what comes next</h3>
@@ -182,6 +198,8 @@
 ---
 
 ## 🤝 Let's Connect
+
+<p align="right"><img src="assets/data-wave.svg" width="100%" alt="Animated multicolor data wave"/></p>
 
 <div align="center">
 <img src="assets/energy-divider.svg" width="100%" alt="Animated multicolor energy divider"/>
