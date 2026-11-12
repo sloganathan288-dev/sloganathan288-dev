@@ -25,261 +25,268 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
-</div>
+<table width="100%">
+<tr>
+<td width="76%" align="center" valign="middle">
 
-Hi! I'm **Loganathan**, a final-year **B.Tech Artificial Intelligence & Data Science** student at Mahendra Engineering College, Tamil Nadu, India.
+<h3>Curious Builder · AI &amp; Data Science · Full Stack</h3>
 
-I enjoy turning ideas into practical software — from AI-powered applications and computer-vision experiments to interactive web experiences, full-stack platforms and workflow automation.
+<p>Hi! I'm <strong>Loganathan</strong>, a final-year <strong>B.Tech Artificial Intelligence &amp; Data Science</strong> student at Mahendra Engineering College, Tamil Nadu, India.</p>
 
-- 🎓 Studying Artificial Intelligence & Data Science
-- 🤖 Interested in AI, machine learning, deep learning and computer vision
-- 🌐 Building web applications and full-stack solutions
-- 🧩 Learning by creating, experimenting and improving real projects
-- ⚙️ Building automations and integrations with n8n, Supabase, SQL and APIs\n- 🛠️ Tools I use: VS Code, Eclipse, Git and GitHub\n- 🌱 I continuously explore and learn new tools, technologies and workflows as projects require.
+<p>I enjoy turning ideas into practical software — from AI-powered applications and computer-vision experiments to interactive web experiences, full-stack platforms and workflow automation.</p>
+
+<p>🎓 Artificial Intelligence &amp; Data Science<br/>
+🤖 AI, machine learning, deep learning and computer vision<br/>
+🌐 Web applications and full-stack solutions<br/>
+🧩 Learning by creating, experimenting and improving real projects<br/>
+⚙️ n8n, Supabase, SQL, APIs and workflow automation<br/>
+🛠️ VS Code, Eclipse, Git and GitHub<br/>
+🌱 Continuously exploring useful tools and technologies</p>
+
+</td>
+<td width="24%" align="center" valign="middle">
+<img src="assets/animated-side-orbit.svg" width="190" alt="Animated vertical orbit with glowing energy nodes"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-<div align="center">
-<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
-</div>
-
-*Technologies represented in my project repositories and documented project work.*
-
 <table width="100%">
 <tr>
-<td width="72%" align="center" valign="middle">
+<td width="76%" align="center" valign="middle">
 
-### Programming & Web Languages
+<h3>Programming &amp; Web Languages</h3>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript" alt="Java, Python, HTML, CSS and JavaScript"/>
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript" alt="Java, Python, HTML, CSS and JavaScript" />
+<h3>Frontend Development</h3>
+<img src="https://skillicons.dev/icons?i=react" alt="React"/>
 
-### Frontend Development
+<h3>Databases &amp; Backend Services</h3>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB"/>
+<br/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 
-<img src="https://skillicons.dev/icons?i=react" alt="React" />
+<h3>Automation &amp; Integrations</h3>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API"/>
+<p>AI-powered workflow automation · WhatsApp chatbot integrations<br/>Supabase and SQL workflows · REST API integration</p>
 
-### Databases & Backend Services
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
-
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-
-### Automation & Integrations
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n workflow automation" />
-<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API" />
-
-<p align="center">
-AI-powered workflow automation with n8n<br/>
-WhatsApp messaging integration and chatbot workflows<br/>
-Supabase and SQL database workflows<br/>
-REST API usage and integration
-</p>
-
-### Developer Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Git, GitHub, VS Code and Eclipse" />
-
-<p align="center">
-Website and web application development<br/>
-AI tools for development, research and productivity
-</p>
+<h3>Developer Tools &amp; Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Git, GitHub, VS Code and Eclipse"/>
+<p>Website and web application development<br/>AI tools for development, research and productivity</p>
 
 </td>
-<td width="28%" align="right" valign="middle">
-
-<img src="assets/falling-energy-art.svg" width="210" alt="Animated falling geometric energy stream" />
-
+<td width="24%" align="center" valign="middle">
+<img src="assets/animated-side-orbit.svg" width="190" alt="Animated vertical orbit with glowing energy nodes"/>
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
-</div>
-
----
 
 ---
 
 ## 💼 Internship Experience
 
-<div align="center">
-<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
-</div>
+<table width="100%">
+<tr>
+<td width="76%" align="center" valign="middle">
 
-<div align="center">
+<h3>ETHIROLI PRIVATE LIMITED · ON-SITE</h3>
+<p><strong>Web Developer &amp; Full-Stack Developer</strong><br/>24 September 2026 – 24 November 2026</p>
+<p>Worked on web development and full-stack tasks, including AI automation workflows and integrations, frontend, backend and API integration.</p>
 
-<img src="assets/animated-internship-timeline.svg" width="100%" alt="Animated timeline of on-site Ethiroli and remote Shank's Code internships" />
+<hr/>
 
-</div>
+<h3>SHANK'S CODE EDUTECH · REMOTE</h3>
+<p><strong>Full-Stack Developer</strong><br/>20 September 2026 – November 2026</p>
+<p>Worked remotely on full-stack web development using <strong>React.js and JavaScript</strong>.</p>
 
-### Ethiroli Private Limited — On-site
-**Web Developer & Full-Stack Developer** · 24 September 2026 – 24 November 2026
+</td>
+<td width="24%" align="center" valign="middle">
+<img src="assets/animated-internship-timeline.svg" width="100%" alt="Animated timeline showing internship experience"/>
+</td>
+</tr>
+</table>
 
-Worked on web development and full-stack tasks, including AI automation workflows and integrations, frontend, backend and API integration.
-
-### Shank's Code Edutech — Remote
-**Full-Stack Developer** · 20 September 2026 – November 2026
-
-Worked remotely on full-stack web development using **React.js and JavaScript**.
+---
 
 ## 🔄 What I Do
 
-<div align="center">
-<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
-</div>
+<table width="100%">
+<tr>
+<td width="76%" align="center" valign="middle">
 
-<div align="center">
+<h3>From an idea to a working solution</h3>
+<p>💡 <strong>Understand</strong> — Break a real-world requirement into clear features</p>
+<p>🧭 <strong>Plan</strong> — Map user journeys, data flow and automation steps</p>
+<p>🧑‍💻 <strong>Develop</strong> — Build web interfaces and application features</p>
+<p>🔌 <strong>Integrate</strong> — Connect REST APIs, databases and external services</p>
+<p>🤖 <strong>Automate</strong> — Create n8n workflows and chatbot integrations</p>
+<p>🧪 <strong>Test &amp; Improve</strong> — Debug, refine and improve the solution</p>
+<p>🚀 <strong>Maintain</strong> — Update projects and learn better ways to build</p>
 
-| Process | What I work on |
-|---|---|
-| 💡 Understand | Break a real-world requirement into clear features |
-| 🧭 Plan | Map user journeys, data flow and automation steps |
-| 🧑‍💻 Develop | Build web interfaces and application features |
-| 🔌 Integrate | Connect REST APIs, databases and external services |
-| 🤖 Automate | Create n8n workflows and chatbot integrations |
-| 🧪 Test & Improve | Debug, refine and improve the solution |
-| 🚀 Maintain | Update projects and learn better ways to build |
+</td>
+<td width="24%" align="center" valign="middle">
+<img src="assets/animated-side-orbit.svg" width="190" alt="Animated orbiting workflow energy artwork"/>
+</td>
+</tr>
+</table>
 
-</div>
+---
 
 ## 🌱 Always Learning & Adapting
 
-<div align="center">
-<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
-</div>
+<table width="100%">
+<tr>
+<td width="76%" align="center" valign="middle">
 
-Technology keeps changing, and so do I. I actively explore new AI tools, developer platforms, automation services and frameworks, then learn and apply the ones that fit the problem I'm solving.
+<h3>Learn continuously. Experiment responsibly. Build practically.</h3>
+<p>Technology keeps changing, and so do I. I actively explore new AI tools, developer platforms, automation services and frameworks, then learn and apply the ones that fit the problem I'm solving.</p>
+<p><strong>My mindset</strong><br/>Learn continuously · Experiment responsibly<br/>Build practically · Improve consistently</p>
 
-**My mindset:** Learn continuously · Experiment responsibly · Build practically · Improve consistently.
+</td>
+<td width="24%" align="center" valign="middle">
+<img src="assets/animated-side-orbit.svg" width="190" alt="Animated learning and innovation energy artwork"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
-</div>
+<table width="100%">
+<tr>
+<td width="76%" align="center" valign="middle">
 
-<div align="center">
+<a href="https://github.com/sloganathan288-dev/LOGU-GAMES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sloganathan288-dev&repo=LOGU-GAMES&theme=tokyonight&hide_border=true" alt="LOGU GAMES repository card"/></a>
+<a href="https://github.com/sloganathan288-dev/loganathan-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sloganathan288-dev&repo=loganathan-portfolio&theme=tokyonight&hide_border=true" alt="Personal portfolio repository card"/></a>
+<a href="https://github.com/sloganathan288-dev/vetri-kalam-sports-events"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sloganathan288-dev&repo=vetri-kalam-sports-events&theme=tokyonight&hide_border=true" alt="Vetri Kalam repository card"/></a>
+<a href="https://github.com/sloganathan288-dev/hand-detection-write"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sloganathan288-dev&repo=hand-detection-write&theme=tokyonight&hide_border=true" alt="Hand Pen repository card"/></a>
+<a href="https://github.com/sloganathan288-dev/doodle-alive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sloganathan288-dev&repo=doodle-alive&theme=tokyonight&hide_border=true" alt="Doodle Alive repository card"/></a>
+<a href="https://github.com/sloganathan288-dev/RNN-voice-and-next-word-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sloganathan288-dev&repo=RNN-voice-and-next-word-prediction&theme=tokyonight&hide_border=true" alt="Voice and next-word prediction repository card"/></a>
 
-<a href="https://github.com/sloganathan288-dev/LOGU-GAMES">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sloganathan288-dev&repo=LOGU-GAMES&theme=tokyonight&hide_border=true" alt="LOGU GAMES repository card" />
-</a>
-<a href="https://github.com/sloganathan288-dev/loganathan-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sloganathan288-dev&repo=loganathan-portfolio&theme=tokyonight&hide_border=true" alt="Personal portfolio repository card" />
-</a>
-<a href="https://github.com/sloganathan288-dev/vetri-kalam-sports-events">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sloganathan288-dev&repo=vetri-kalam-sports-events&theme=tokyonight&hide_border=true" alt="Vetri Kalam repository card" />
-</a>
-<a href="https://github.com/sloganathan288-dev/hand-detection-write">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sloganathan288-dev&repo=hand-detection-write&theme=tokyonight&hide_border=true" alt="Hand Pen repository card" />
-</a>
-<a href="https://github.com/sloganathan288-dev/doodle-alive">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sloganathan288-dev&repo=doodle-alive&theme=tokyonight&hide_border=true" alt="Doodle Alive repository card" />
-</a>
-<a href="https://github.com/sloganathan288-dev/RNN-voice-and-next-word-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sloganathan288-dev&repo=RNN-voice-and-next-word-prediction&theme=tokyonight&hide_border=true" alt="Voice and next-word prediction repository card" />
-</a>
+</td>
+<td width="24%" align="center" valign="middle">
+<img src="assets/animated-side-orbit.svg" width="190" alt="Animated featured-project energy artwork"/>
+</td>
+</tr>
+</table>
 
-</div>
+---
 
 ## 🗂️ Project Portfolio
 
-<div align="center">
-<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
-</div>
+<table width="100%">
+<tr>
+<td width="76%" align="center" valign="middle">
 
-### 🎓 Academic Projects
+<h3>🎓 Academic Projects</h3>
+<p><strong>AI-Powered Disaster Monitoring</strong><br/>Final-year project concept using satellite and drone imagery for disaster monitoring and analysis</p>
+<p><a href="https://github.com/sloganathan288-dev/smart_traffic_system-management">Smart Traffic Management</a><br/>AI-based vehicle-density monitoring and traffic signal automation using Python, computer vision and IoT concepts</p>
+<p><a href="https://github.com/sloganathan288-dev/academic-performance-analysis-system">Academic Performance Analysis</a><br/>Data analysis project focused on academic performance</p>
+<p><a href="https://github.com/sloganathan288-dev/RNN-voice-and-next-word-prediction">RNN Voice &amp; Next-Word Prediction</a><br/>Speech-to-text and next-word prediction using Flask and LSTM-based deep learning</p>
 
-| Project | Description & technologies |
-|---|---|
-| **AI-Powered Disaster Monitoring** | Final-year project concept using satellite and drone imagery for disaster monitoring and analysis |
-| [Smart Traffic Management](https://github.com/sloganathan288-dev/smart_traffic_system-management) | AI-based vehicle-density monitoring and traffic signal automation using Python, computer vision and IoT concepts |
-| [Academic Performance Analysis](https://github.com/sloganathan288-dev/academic-performance-analysis-system) | Data analysis project focused on academic performance |
-| [RNN Voice & Next-Word Prediction](https://github.com/sloganathan288-dev/RNN-voice-and-next-word-prediction) | Speech-to-text and next-word prediction using Flask and LSTM-based deep learning |
+<hr/>
 
-### 💡 Personal & Learning Projects
+<h3>💡 Personal &amp; Learning Projects</h3>
+<p><a href="https://github.com/sloganathan288-dev/LOGU-GAMES">LOGU GAMES</a> · Browser games built with React, TypeScript and Vite</p>
+<p><a href="https://github.com/sloganathan288-dev/hand-detection-write">Hand Pen</a> · Webcam hand-detection drawing using JavaScript, MediaPipe Hands and HTML Canvas</p>
+<p><a href="https://github.com/sloganathan288-dev/doodle-alive">Doodle Alive</a> · Browser-based drawing and animation using HTML, CSS, JavaScript and Canvas</p>
+<p><a href="https://github.com/sloganathan288-dev/loganathan-v2">Loganathan V2</a> · AI chat workspace concept with Firebase authentication, Firestore, Storage and a cloud function</p>
+<p><a href="https://github.com/sloganathan288-dev/mindfull-ai">Mindfull AI</a> · AI application exploration</p>
+<p><strong>BrainZone IQ Chatbot</strong> · AI chatbot project</p>
+<p><strong>Virtual Try-On</strong> · AI-powered virtual try-on project</p>
+<p><strong>AI Medicine Reminder</strong> · Flutter and IoT-based medicine reminder application</p>
 
-| Project | Description & technologies |
-|---|---|
-| [LOGU GAMES](https://github.com/sloganathan288-dev/LOGU-GAMES) | Collection of browser games built with React, TypeScript and Vite |
-| [Hand Pen](https://github.com/sloganathan288-dev/hand-detection-write) | Webcam hand-detection drawing using JavaScript, MediaPipe Hands and HTML Canvas |
-| [Doodle Alive](https://github.com/sloganathan288-dev/doodle-alive) | Browser-based drawing and animation using HTML, CSS, JavaScript and Canvas |
-| [Loganathan V2](https://github.com/sloganathan288-dev/loganathan-v2) | AI chat workspace concept with Firebase authentication, Firestore, Storage and a cloud function |
-| [Mindfull AI](https://github.com/sloganathan288-dev/mindfull-ai) | AI application exploration |
-| **BrainZone IQ Chatbot** | AI chatbot project |
-| **Virtual Try-On** | AI-powered virtual try-on project |
-| **AI Medicine Reminder** | Flutter and IoT-based medicine reminder application |
+<hr/>
 
-### 🏢 Company, Internship & Business Projects
+<h3>🏢 Company, Internship &amp; Business Projects</h3>
+<p><strong>Ethiroli – Employee &amp; Company Platform</strong><br/>Contributed to a multi-role company platform, working on assigned modules, bug fixes and feature improvements. React frontend and backend API integration; work shared through GitHub pull requests. This project is not yet published in my GitHub repositories.</p>
+<p><strong>Durga Jothidham – Appointment Assistant</strong><br/>Astrology appointment chatbot workflow using n8n Cloud, WhatsApp Cloud API (planned production channel), Gemini and Supabase/PostgreSQL. A Telegram demo was also developed to test Tamil booking conversations, service menus and appointment flow.</p>
+<p><a href="https://github.com/sloganathan288-dev/vetri-kalam-sports-events">VETRI KALAM Sports &amp; Events</a> · Sports event website and registration platform with React, PostgreSQL, serverless APIs and organiser tools</p>
+<p><a href="https://github.com/sloganathan288-dev/logan-it-solutions">LOGAN IT Solutions</a> · Business website and platform with PostgreSQL, payment workflows, APIs and admin features</p>
+<p><a href="https://github.com/sloganathan288-dev/loganathan-portfolio">Personal Portfolio</a> · React, Vite and TypeScript developer portfolio</p>
 
-| Project | Description & technologies |
-|---|---|
-| **Ethiroli – Employee & Company Platform** | Contributed to a multi-role company platform, working on assigned modules, bug fixes and feature improvements. React frontend and backend API integration; work shared through GitHub pull requests. This project is not yet published in my GitHub repositories. |
-| **Durga Jothidham – Appointment Assistant** | Astrology appointment chatbot workflow using n8n Cloud, WhatsApp Cloud API (planned production channel), Gemini and Supabase/PostgreSQL. A Telegram demo was also developed to test Tamil booking conversations, service menus and appointment flow. |
-| [VETRI KALAM Sports & Events](https://github.com/sloganathan288-dev/vetri-kalam-sports-events) | Sports event website and registration platform with React, PostgreSQL, serverless APIs and organiser tools |
-| [LOGAN IT Solutions](https://github.com/sloganathan288-dev/logan-it-solutions) | Business website and platform with PostgreSQL, payment workflows, APIs and admin features |
-| [Personal Portfolio](https://github.com/sloganathan288-dev/loganathan-portfolio) | React, Vite and TypeScript developer portfolio |
+<p><em>Some academic and personal projects above are documented from my project work but are not yet published as separate GitHub repositories. Project status and implementation details may evolve as development continues.</em></p>
 
-*Some academic and personal projects above are documented from my project work but are not yet published as separate GitHub repositories. Project status and implementation details may evolve as development continues.*
+</td>
+<td width="24%" align="center" valign="middle">
+<img src="assets/animated-side-orbit.svg" width="190" alt="Animated project showcase energy artwork"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
-</div>
+<table width="100%">
+<tr>
+<td width="76%" align="center" valign="middle">
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sloganathan288-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloganathan288-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=sloganathan288-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sloganathan288-dev&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub contribution activity graph" />
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sloganathan288-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloganathan288-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=sloganathan288-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sloganathan288-dev&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub contribution activity graph"/>
+
+</td>
+<td width="24%" align="center" valign="middle">
+<img src="assets/animated-side-orbit.svg" width="190" alt="Animated GitHub analytics energy artwork"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Currently Focused On
 
-<div align="center">
-<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
-</div>
+<table width="100%">
+<tr>
+<td width="76%" align="center" valign="middle">
 
-- Building practical AI-powered applications and automation workflows
-- Exploring n8n, WhatsApp API integrations and Supabase
-- Continuously learning and adapting to useful new developer tools and technologies
-- Improving full-stack development and software architecture
-- Exploring machine learning and computer vision
-- Writing cleaner, more maintainable code
-- Growing through consistent project work and collaboration
+<h3>Building what comes next</h3>
+<p>🚀 Practical AI-powered applications and automation workflows</p>
+<p>🔗 n8n, WhatsApp API integrations and Supabase</p>
+<p>📚 Learning useful developer tools and technologies</p>
+<p>🏗️ Full-stack development and software architecture</p>
+<p>🧠 Machine learning and computer vision</p>
+<p>✨ Cleaner, more maintainable code</p>
+<p>🤝 Growing through consistent project work and collaboration</p>
+
+</td>
+<td width="24%" align="center" valign="middle">
+<img src="assets/animated-side-orbit.svg" width="190" alt="Animated future-focused energy artwork"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🤝 Let's Connect
 
-<div align="center">
-<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider" />
-</div>
+<table width="100%">
+<tr>
+<td width="76%" align="center" valign="middle">
+
+<h3>Let's build something useful together.</h3>
+<p>I'm always interested in learning, collaborating and building useful technology.</p>
+<p><a href="https://loganathan-portfolio-ruby.vercel.app/"><img src="https://img.shields.io/badge/Visit_My_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio"/></a></p>
+<p><a href="mailto:sloganathan288@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Loganathan"/></a>
+<a href="https://github.com/sloganathan288-dev?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github" alt="Explore repositories"/></a></p>
+
+</td>
+<td width="24%" align="center" valign="middle">
+<img src="assets/animated-side-orbit.svg" width="190" alt="Animated connection energy artwork"/>
+</td>
+</tr>
+</table>
 
 <div align="center">
-
-I'm always interested in learning, collaborating and building useful technology.
-
-<a href="https://loganathan-portfolio-ruby.vercel.app/"><img src="https://img.shields.io/badge/Visit_My_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" /></a>
-
-<a href="mailto:sloganathan288@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Loganathan" /></a>
-<a href="https://github.com/sloganathan288-dev?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,55:102A43,100:070A13&amp;height=110&amp;section=footer" width="100%" alt="Decorative footer" />
-
-**“Build with curiosity. Improve with consistency. Create with purpose.”**
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,55:102A43,100:070A13&amp;height=110&amp;section=footer" width="100%" alt="Decorative footer"/>
+<p><strong>“Build with curiosity. Improve with consistency. Create with purpose.”</strong></p>
 </div>
