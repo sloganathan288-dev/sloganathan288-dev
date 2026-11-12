@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="900" viewBox="0 0 300 900">
+<defs>
+ <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".45" stop-color="#38bdf8"/><stop offset=".78" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+ <radialGradient id="orb"><stop stop-color="#ecfeff"/><stop offset=".2" stop-color="#67e8f9"/><stop offset=".62" stop-color="#2563eb"/><stop offset="1" stop-color="#312e81" stop-opacity="0"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect width="300" height="900" rx="24" fill="#071426" fill-opacity=".28"/>
+<g fill="none" stroke="#2563eb" stroke-opacity=".28"><path d="M18 0C260 130 35 250 220 390S30 650 245 900"/><path d="M280 0C45 160 270 310 65 470S260 710 40 900"/><path d="M150 0C15 180 290 300 145 470S10 720 160 900"/></g>
+<path d="M150 -20C30 130 270 240 145 390S70 650 165 930" fill="none" stroke="url(#beam)" stroke-width="26" opacity=".22" filter="url(#glow)"/>
+<path d="M150 -20C30 130 270 240 145 390S70 650 165 930" fill="none" stroke="url(#beam)" stroke-width="3" stroke-dasharray="12 16"><animate attributeName="stroke-dashoffset" values="0;-112" dur="3s" repeatCount="indefinite"/></path>
+<g fill="none" stroke="#67e8f9" stroke-width="1.5" opacity=".6">
+ <ellipse cx="150" cy="170" rx="105" ry="38"><animateTransform attributeName="transform" type="rotate" from="0 150 170" to="360 150 170" dur="16s" repeatCount="indefinite"/></ellipse>
+ <ellipse cx="150" cy="455" rx="115" ry="44"><animateTransform attributeName="transform" type="rotate" from="360 150 455" to="0 150 455" dur="19s" repeatCount="indefinite"/></ellipse>
+ <ellipse cx="150" cy="735" rx="100" ry="36"><animateTransform attributeName="transform" type="rotate" from="0 150 735" to="360 150 735" dur="14s" repeatCount="indefinite"/></ellipse>
+</g>
+<g>
+ <circle cx="150" cy="170" r="62" fill="#2563eb" opacity=".22" filter="url(#glow)"/>
+ <circle cx="150" cy="170" r="34" fill="url(#orb)"><animate attributeName="r" values="28;40;28" dur="3s" repeatCount="indefinite"/></circle>
+ <path d="M150 112L192 170 150 228 108 170Z" fill="none" stroke="#a5f3fc" stroke-width="2"><animateTransform attributeName="transform" type="rotate" from="0 150 170" to="360 150 170" dur="12s" repeatCount="indefinite"/></path>
+ <circle cx="150" cy="455" r="40" fill="url(#orb)"/>
+ <path d="M150 405L187 455 150 505 113 455Z" fill="#1d4ed8" stroke="#c4b5fd" stroke-width="2"><animateTransform attributeName="transform" type="rotate" from="360 150 455" to="0 150 455" dur="10s" repeatCount="indefinite"/></path>
+ <circle cx="150" cy="735" r="48" fill="url(#orb)"/>
+ <path d="M150 680L195 735 150 790 105 735Z" fill="#312e81" stroke="#67e8f9" stroke-width="2"><animateTransform attributeName="transform" type="rotate" from="0 150 735" to="360 150 735" dur="11s" repeatCount="indefinite"/></path>
+</g>
+<g fill="#a5f3fc">
+ <circle cx="42" cy="80" r="3"><animate attributeName="cy" values="80;820;80" dur="8s" repeatCount="indefinite"/></circle>
+ <circle cx="252" cy="280" r="4"><animate attributeName="cy" values="280;40;280" dur="6s" repeatCount="indefinite"/></circle>
+ <circle cx="58" cy="580" r="3"><animate attributeName="opacity" values=".1;1;.1" dur="1.5s" repeatCount="indefinite"/></circle>
+ <circle cx="245" cy="820" r="3"><animate attributeName="opacity" values="1;.1;1" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<g stroke="#818cf8" stroke-dasharray="2 13" opacity=".6"><path d="M20 0V900M280 0V900"/></g>
+</svg>
