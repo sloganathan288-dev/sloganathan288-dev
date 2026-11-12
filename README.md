@@ -25,26 +25,22 @@
 
 ## 👨‍💻 About Me
 
-<p align="left"><img src="assets/neural-network-pulse.svg" width="100%" alt="Animated AI neural network in red blue and cyan"/></p>
+<p align="center"><img src="assets/subtle-moving-dots.svg" width="100%" alt="Subtle moving red and blue dots"/></p>
 
 <div align="center">
-<img src="assets/energy-divider.svg" width="100%" alt="Animated cyan blue violet energy divider"/>
 <h3>Curious Builder · AI &amp; Data Science · Full Stack</h3>
 <p>Hi! I'm <strong>Loganathan</strong>, a final-year <strong>B.Tech Artificial Intelligence &amp; Data Science</strong> student at Mahendra Engineering College, Tamil Nadu, India.</p>
 <p>I enjoy turning ideas into practical software — from AI-powered applications and computer-vision experiments to interactive web experiences, full-stack platforms and workflow automation.</p>
 <p>🎓 Artificial Intelligence &amp; Data Science<br/>🤖 AI, machine learning, deep learning and computer vision<br/>🌐 Web applications and full-stack solutions<br/>🧩 Learning by creating, experimenting and improving real projects<br/>⚙️ n8n, Supabase, SQL, APIs and workflow automation<br/>🛠️ VS Code, Eclipse, Git and GitHub<br/>🌱 Continuously exploring useful tools and technologies</p>
 </div>
 
-<p align="right"><img src="assets/ai-brain-pulse.svg" width="210" alt="Animated AI neural brain and learning network"/></p>
-
 ---
 
 ## 🧰 Tech Stack & Tools
 
-<p align="right"><img src="assets/code-rain.svg" width="88%" alt="Animated programming code streams"/></p>
+<p align="center"><img src="assets/subtle-moving-dots.svg" width="100%" alt="Subtle moving red and blue dots"/></p>
 
 <div align="center">
-<img src="assets/energy-divider.svg" width="100%" alt="Animated multicolor energy divider"/>
 <p><em>Technologies represented in my project repositories and documented project work.</em></p>
 
 <h3>Programming &amp; Web Languages</h3>
@@ -68,18 +64,13 @@
 <p>Website and web application development<br/>AI tools for development, research and productivity</p>
 </div>
 
-<p align="left"><img src="assets/neural-network-pulse.svg" width="190" alt="Animated neural network with pulsing connections"/></p>
-
 ---
 
 ## 💼 Internship Experience
 
-<p align="left"><img src="assets/data-wave.svg" width="100%" alt="Animated data wave showing a moving career path"/></p>
-
-<p align="right"><img src="assets/rocket-trajectory.svg" width="250" alt="Animated rocket following a red and blue trajectory"/></p>
+<p align="center"><img src="assets/subtle-moving-dots.svg" width="100%" alt="Subtle moving red and blue dots"/></p>
 
 <div align="center">
-<img src="assets/career-timeline-motion.svg" width="100%" alt="Animated career timeline"/>
 <h3>ETHIROLI PRIVATE LIMITED · ON-SITE</h3>
 <p><strong>Web Developer &amp; Full-Stack Developer</strong><br/>24 September 2026 – 24 November 2026</p>
 <p>Worked on web development and full-stack tasks, including AI automation workflows and integrations, frontend, backend and API integration.</p>
@@ -93,9 +84,7 @@
 
 ## 🔄 What I Do
 
-<p align="right"><img src="assets/neural-network-pulse.svg" width="95%" alt="Animated neural connections representing problem solving"/></p>
-
-<p align="right"><img src="assets/neural-network-pulse.svg" width="220" alt="Animated data processing network"/></p>
+<p align="center"><img src="assets/subtle-moving-dots.svg" width="100%" alt="Subtle moving red and blue dots"/></p>
 
 <div align="center">
 <h3>From an idea to a working solution</h3>
@@ -112,9 +101,7 @@
 
 ## 🌱 Always Learning & Adapting
 
-<p align="left"><img src="assets/ai-brain-pulse.svg" width="82%" alt="Animated AI brain with pulsing neural connections"/></p>
-
-<p align="left"><img src="assets/ai-brain-pulse.svg" width="205" alt="Animated AI neural brain pulse"/></p>
+<p align="center"><img src="assets/subtle-moving-dots.svg" width="100%" alt="Subtle moving red and blue dots"/></p>
 
 <div align="center">
 <h3>Learn continuously. Experiment responsibly. Build practically.</h3>
@@ -126,9 +113,7 @@
 
 ## 🚀 Featured Projects
 
-<p align="left"><img src="assets/code-rain.svg" width="100%" alt="Animated code rain for featured projects"/></p>
-
-<p align="right"><img src="assets/code-rain.svg" width="230" alt="Animated code symbols and digital data rain"/></p>
+<p align="center"><img src="assets/subtle-moving-dots.svg" width="100%" alt="Subtle moving red and blue dots"/></p>
 
 <div align="center">
 <a href="https://github.com/sloganathan288-dev/LOGU-GAMES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sloganathan288-dev&repo=LOGU-GAMES&theme=tokyonight&hide_border=true" alt="LOGU GAMES repository card"/></a>
@@ -143,18 +128,15 @@
 
 ## 🗂️ Project Portfolio
 
-<p align="right"><img src="assets/orbiting-satellite.svg" width="90%" alt="Animated satellite orbit and data transmission"/></p>
+<p align="center"><img src="assets/subtle-moving-dots.svg" width="100%" alt="Subtle moving red and blue dots"/></p>
 
 <div align="center">
-<img src="assets/energy-divider.svg" width="100%" alt="Animated energy divider"/>
 <h3>🎓 Academic Projects</h3>
 <p><strong>AI-Powered Disaster Monitoring</strong><br/>Final-year project concept using satellite and drone imagery for disaster monitoring and analysis.</p>
 <p><a href="https://github.com/sloganathan288-dev/smart_traffic_system-management">Smart Traffic Management</a><br/>AI-based vehicle-density monitoring and traffic signal automation using Python, computer vision and IoT concepts.</p>
 <p><a href="https://github.com/sloganathan288-dev/academic-performance-analysis-system">Academic Performance Analysis</a><br/>Data analysis project focused on academic performance.</p>
 <p><a href="https://github.com/sloganathan288-dev/RNN-voice-and-next-word-prediction">RNN Voice &amp; Next-Word Prediction</a><br/>Speech-to-text and next-word prediction using Flask and LSTM-based deep learning.</p>
 </div>
-
-<p align="right"><img src="assets/code-rain.svg" width="210" alt="Animated code streams and project data"/></p>
 
 <div align="center">
 <h3>💡 Personal &amp; Learning Projects</h3>
@@ -180,9 +162,7 @@
 
 ## 🎯 Currently Focused On
 
-<p align="left"><img src="assets/rocket-trajectory.svg" width="100%" alt="Animated rocket trajectory representing future goals"/></p>
-
-<p align="right"><img src="assets/orbiting-satellite.svg" width="245" alt="Animated satellite orbiting a digital planet"/></p>
+<p align="center"><img src="assets/subtle-moving-dots.svg" width="100%" alt="Subtle moving red and blue dots"/></p>
 
 <div align="center">
 <h3>Building what comes next</h3>
@@ -199,15 +179,13 @@
 
 ## 🤝 Let's Connect
 
-<p align="right"><img src="assets/data-wave.svg" width="100%" alt="Animated multicolor data wave"/></p>
+<p align="center"><img src="assets/subtle-moving-dots.svg" width="100%" alt="Subtle moving red and blue dots"/></p>
 
 <div align="center">
-<img src="assets/energy-divider.svg" width="100%" alt="Animated multicolor energy divider"/>
 <h3>Let's build something useful together.</h3>
 <p>I'm always interested in learning, collaborating and building useful technology.</p>
 <p><a href="https://loganathan-portfolio-ruby.vercel.app/"><img src="https://img.shields.io/badge/Visit_My_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio"/></a></p>
 <p><a href="mailto:sloganathan288@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Loganathan"/></a>
 <a href="https://github.com/sloganathan288-dev?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github" alt="Explore repositories"/></a></p>
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EF4444,45:2563EB,100:FACC15&amp;height=110&amp;section=footer" width="100%" alt="Red blue gold animated footer"/>
 <p><strong>“Build with curiosity. Improve with consistency. Create with purpose.”</strong></p>
 </div>
